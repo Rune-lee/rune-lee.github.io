@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rune-lee.github.io/sitemap-index.xml
+Host: https://rune-lee.github.io
